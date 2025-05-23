@@ -1,7 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  basePath: process.env.NODE_ENV === 'production' ? '/tech-portfolio' : '',
+  // Remove basePath for custom domain, only use it for github.io subdirectory
+  basePath: process.env.GITHUB_ACTIONS && !process.env.CUSTOM_DOMAIN ? '/tech-portfolio' : '',
   trailingSlash: true,
   images: {
     unoptimized: true
