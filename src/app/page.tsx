@@ -44,7 +44,7 @@ export default function Home() {
                   <div className="flex flex-col gap-6 md:min-w-[400px] md:gap-8 lg:justify-center">
                     <div className="flex flex-col gap-2 text-left">
                       <h1 className={`${isDark ? 'text-white' : 'text-[#0d141c]'} text-4xl font-black leading-tight tracking-[-0.033em] md:text-5xl md:font-black md:leading-tight md:tracking-[-0.033em]`}>
-                        Hi, I'm Aadarsh Kumar
+                        Hi, I&apos;m Aadarsh Kumar
                       </h1>
                       <h2 className={`${isDark ? 'text-gray-300' : 'text-[#0d141c]'} text-sm font-normal leading-normal md:text-base md:font-normal md:leading-normal`}>
                         A passionate software developer specializing in AI/ML development. I build innovative solutions and strive for excellence in every project.

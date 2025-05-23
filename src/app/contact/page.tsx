@@ -49,7 +49,7 @@ export default function Contact() {
                   Get in Touch
                 </p>
                 <p className={`${isDark ? 'text-gray-400' : 'text-[#5c728a]'} text-sm font-normal leading-normal`}>
-                  I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. Feel free to reach out, and I'll get back to you as soon as possible.
+                  I&apos;m always open to discussing new projects, creative ideas, or opportunities to collaborate. Feel free to reach out, and I&apos;ll get back to you as soon as possible.
                 </p>
               </div>
             </div>

@@ -70,10 +70,10 @@ export default function About() {
               </div>
             </div>
             <p className={`${isDark ? 'text-gray-300' : 'text-[#101418]'} text-base font-normal leading-normal pb-3 pt-1 px-4`}>
-              I'm a passionate software developer specializing in AI/ML development, currently pursuing B.Tech in Electronics and Communication Engineering (AI & ML) from Netaji Subhas University of Technology, Delhi. I have experience in building innovative solutions across web development and machine learning domains.
+              I&apos;m a passionate software developer specializing in AI/ML development, currently pursuing B.Tech in Electronics and Communication Engineering (AI & ML) from Netaji Subhas University of Technology, Delhi. I have experience in building innovative solutions across web development and machine learning domains.
             </p>
             <p className={`${isDark ? 'text-gray-300' : 'text-[#101418]'} text-base font-normal leading-normal pb-3 pt-1 px-4`}>
-              Currently working as a Machine Learning & Front-end Developer Intern at DRDO's Solid State Physical Laboratory, where I'm developing real-time gunshot detection systems with 90%+ accuracy using advanced ML techniques.
+              Currently working as a Machine Learning & Front-end Developer Intern at DRDO&apos;s Solid State Physical Laboratory, where I&apos;m developing real-time gunshot detection systems with 90%+ accuracy using advanced ML techniques.
             </p>
           </div>
           <div className="layout-content-container flex flex-col max-w-[960px] flex-1">
